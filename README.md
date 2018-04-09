@@ -1,1 +1,1 @@
-# ASP.NET-Core-VueJS-Ge-Admin
+# ASP.NET Core Vue.JS Ge-Admin
